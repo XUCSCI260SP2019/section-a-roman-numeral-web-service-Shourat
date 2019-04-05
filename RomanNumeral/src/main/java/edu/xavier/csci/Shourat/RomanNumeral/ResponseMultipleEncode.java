@@ -7,6 +7,7 @@ public class ResponseMultipleEncode {
     private List s = new ArrayList();
 
         public List getS() {
+
             return s;
         }
 
